@@ -1,6 +1,14 @@
 # news
 
 News app with Flutter.
+Contents:
+1: complex Ul screens.
+2: Api Client.
+3: Build models, classes, working with JSON, Map and List.
+4: Responsive lay out.
+5: web page view.
+6: Dark theme and light theme.
+
 
 ## Getting Started
 ![1](https://user-images.githubusercontent.com/85794958/167641668-0aaebc82-7e4d-4cc8-9459-2f070560eeb0.png)
